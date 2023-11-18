@@ -14,14 +14,7 @@ namespace Laboratorio09
         {
             InitializeComponent();
 
-            /*hablapecausa1.Clicked += OnButtonClicked;
-            hablapecausa2.Clicked += OnButtonClicked;
-            hablapecausa3.Clicked += OnButtonClicked;
-            hablapecausa4.Clicked += OnButtonClicked;*/
-            /*hablapecausa1.Clicked += async (sender, e) =>
-            {
-                await Navigation.PushAsync(new PanDemo());
-            };*/
+           
         }
         private async void OnButtonClicked(object sender, EventArgs e)
         {
@@ -45,7 +38,7 @@ namespace Laboratorio09
         }
         private async void OnLabelTapped(object sender, EventArgs e)
         {
-            await DisplayAlert("Aviso", "Todo perdedor puede mejorar y volverse bueno si persevera", "Aea");
+            await DisplayAlert("Aviso", "Los perdedores reaccionan, los líderes se anticipan", "SteveCobey");
         }
     }
 }
