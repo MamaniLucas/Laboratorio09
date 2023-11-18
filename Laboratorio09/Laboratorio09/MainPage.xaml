@@ -5,7 +5,7 @@
 
     <StackLayout>
         <Label
-            Text="Powered by Almeyda"
+            Text="Powered by Roxana"
             TextColor="SkyBlue"
             FontSize="Title"
             HorizontalTextAlignment="Center"
