@@ -17,22 +17,22 @@
             </Label.GestureRecognizers>
         </Label>
         <Button
-            x:Name="hablapecausa1"
+            x:Name="item1"
             Text="Tap demo"
             Clicked="OnButtonClicked"
         />
         <Button
-            x:Name="hablapecausa2"
+            x:Name="item2"
             Text="Pinch demo"
             Clicked="OnButtonClicked"
         />
         <Button
-            x:Name="hablapecausa3"
+            x:Name="item3"
             Text="Pan demo"
             Clicked="OnButtonClicked"
         />
         <Button
-            x:Name="hablapecausa4"
+            x:Name="item4"
             Text="Swipe demo"
             Clicked="OnButtonClicked"
         />
